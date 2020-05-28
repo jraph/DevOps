@@ -39,7 +39,7 @@
 		},
 		"adminPassword": {
 			"type": "string",
-			"defaultValue": "Password1234",
+			"defaultValue": "gnD9aBrcy2e1m8L",
 			"metadata": {
 				"description": "Password for the Virtual Machine."
 			}
